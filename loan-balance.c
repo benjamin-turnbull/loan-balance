@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main (void)
-{
+int main (void) {
     float loan, interest, payment, balance_one, balance_two, balance_three;
 
     printf("Enter amount of loan:\n");
